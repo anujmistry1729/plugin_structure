@@ -1,5 +1,5 @@
-import {templateTable_$PLUGIN_ID } from './view-template/templateTable';
-import {OuterbasePluginConfig_$PLUGIN_ID} from './pluginConfig';
+import { OuterbasePluginConfig_$PLUGIN_ID } from '../config';
+import {templateTable_$PLUGIN_ID } from './view/table-view';
 
 
 export class OuterbasePluginTable_$PLUGIN_ID extends HTMLElement {

@@ -1,6 +1,5 @@
-import { OuterbasePluginConfig_$PLUGIN_ID } from "./pluginConfig";
-import { templateTable_$PLUGIN_ID } from "./view-template/templateTable";
-import { templateConfiguration } from "./view-template/templateTableConfig";
+import { OuterbasePluginConfig_$PLUGIN_ID } from "../config";
+import { templateConfiguration } from "./view/config-view";
 
 export class OuterbasePluginTableConfiguration_$PLUGIN_ID extends HTMLElement {
   static get observedAttributes() {
