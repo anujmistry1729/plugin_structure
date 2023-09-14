@@ -6,3 +6,6 @@ This repository aims to enable code splitting for developers, making the creatio
 2. Use `npm install` then `npm run build`
 3. Copy the code in `./dist/plugin.bundle.js` to your clipboard and paste it!
 
+# Folder Structure
+
+![image](https://github.com/anujmistry1729/plugin_structure/assets/60545642/b712bdb7-bb43-4033-9645-4a975aafdd71)
